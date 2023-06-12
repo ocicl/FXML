@@ -1,0 +1,10 @@
+* FXML
+
+Secure-by-default, error-recovering XML parser and serializer in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ruricolist/FXML.git   |
+| commit  | a0e73bb  |
+| systems | FXML |
+|---------+-------------------------------------------|
+
